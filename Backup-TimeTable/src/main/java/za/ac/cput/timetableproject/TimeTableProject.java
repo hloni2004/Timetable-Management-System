@@ -15,6 +15,8 @@ public class TimeTableProject {
     public static void main(String[] args) throws SQLException {
         
         MainGui frame = new MainGui();
+        System.out.print("this are the changes");
+
     
      frame.setSize(450,250);
     }
